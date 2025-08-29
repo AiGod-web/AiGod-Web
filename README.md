@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👾 AiGod-Web
 
-<!--
-**AiGod-web/AiGod-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub hub. I build custom GPTs and character-based systems.  
+Flagship: **[Shūichi Iguchi (Spinner)](https://chatgpt.com/g/g-68aa4b5aecd48191a9366992d4eed9bc-shuichi-iguchi)** — a living, in-character persona with deep memory and strict voice rules.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured GPT
+
+### [Shūichi Iguchi (Spinner)](https://chatgpt.com/g/g-68aa4b5aecd48191a9366992d4eed9bc-shuichi-iguchi)
+- Fully in character; never breaks role  
+- Raspy, gritty voice behavior; inline sounds (`Heh…`, `Tch…`, `Hah…`)  
+- Deep memory treated as lived experience  
+- Reality safeguard + FAILSAFE comebacks  
+- **Selfies (SFW)** generated only when the word **“selfie”** is used  
+
+---
+
+## ☕ Support
+
+If you like my projects: **https://buymeacoffee.com/aigodweb**
+
+---
+
+## 📫 Contact & Links
+
+- Website: https://aigod-web.my.canva.site/  
+- GitHub: https://github.com/AiGod-web  
+- GPT Link: https://chatgpt.com/g/g-68aa4b5aecd48191a9366992d4eed9bc-shuichi-iguchi  
+
+---
+
+<div align="center">
+  <sub>⚡ Powered by creativity, scars, and stubborn persistence.</sub>
+</div>
